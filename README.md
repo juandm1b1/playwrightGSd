@@ -1,2 +1,0 @@
-# playwrightGS
-Playwright Getting Started
